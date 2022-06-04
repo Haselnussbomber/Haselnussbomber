@@ -30,6 +30,6 @@ Changes dialog options from wing names to raid name, bosses and if they are defe
 
 Notifies the player when an item was looted which begins a quest.
 
-#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released May 14, 2022">v1.0.4</span>
+#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Jun 4, 2022">v1.1</span>
 
 Adds a hint in the tooltip in which expansion a reagent was added to the game.
