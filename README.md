@@ -8,6 +8,10 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 A collection of quality of life tweaks.
 
+#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Jul 25, 2022">v0.0.3</span>
+
+A little helper for Levequests.
+
 ### World of Warcraft Addons
 
 #### <a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released May 17, 2022">v1.0.10</span>
