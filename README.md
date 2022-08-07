@@ -2,6 +2,8 @@
 
 These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
+
 ### Final Fantasy XIV Plugins
 
 #### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Aug 5, 2022">v0.3.0</span>
