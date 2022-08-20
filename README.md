@@ -6,6 +6,10 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 ### Final Fantasy XIV Plugins
 
+#### <a href="https://github.com/Haselnussbomber/AetherCurrentHelper" title="A little helper for Aether Currents.">AetherCurrentHelper</a> <span title="Released Aug 20, 2022">v0.0.1</span>
+
+A little helper for Aether Currents.
+
 #### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Aug 20, 2022">v0.4.0</span>
 
 A collection of quality of life tweaks.
