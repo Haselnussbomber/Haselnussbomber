@@ -10,11 +10,11 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 A little helper for Aether Currents.
 
-#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Aug 20, 2022">v0.4.0</span>
+#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Aug 23, 2022">v0.4.1</span>
 
 A collection of quality of life tweaks.
 
-#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Aug 20, 2022">v0.1.0</span>
+#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Aug 23, 2022">v0.1.2</span>
 
 A little helper for Levequests.
 
