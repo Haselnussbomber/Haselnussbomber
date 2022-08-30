@@ -10,7 +10,7 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 A collection of quality of life tweaks.
 
-#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Aug 23, 2022">v0.1.2</span>
+#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Aug 29, 2022">v0.1.3</span>
 
 A little helper for Levequests.
 
