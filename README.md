@@ -31,11 +31,3 @@ Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stat
 #### <a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released May 13, 2022">v1.1-1</span>
 
 Changes dialog options from wing names to raid name, bosses and if they are defeated.
-
-#### <a href="https://github.com/Haselnussbomber/QuestNotifier" title="Notifies the player when an item was looted which begins a quest.">QuestNotifier</a> <span title="Released May 13, 2022">v1.2.0-2</span>
-
-Notifies the player when an item was looted which begins a quest.
-
-#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Jun 4, 2022">v1.1</span>
-
-Adds a hint in the tooltip in which expansion a reagent was added to the game.
