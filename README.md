@@ -6,7 +6,7 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 ### Final Fantasy XIV Plugins
 
-#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Sep 4, 2022">v0.7.2</span>
+#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Sep 16, 2022">v0.7.3</span>
 
 A collection of quality of life tweaks.
 
