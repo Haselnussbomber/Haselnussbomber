@@ -16,7 +16,7 @@ A little helper for Levequests.
 
 ### World of Warcraft Addons
 
-#### <a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released May 17, 2022">v1.0.10</span>
+#### <a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released Oct 27, 2022">v2.0</span>
 
 Sorts trade goods into categories based on the expansion they got added.
 
@@ -24,7 +24,7 @@ Sorts trade goods into categories based on the expansion they got added.
 
 Alt-clicking an item in the inventory selects it in the Sell window and sets the quantity to max.
 
-#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released May 18, 2022">v3.2.1-2</span>
+#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released Oct 27, 2022">v4.0.0</span>
 
 Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.
 
@@ -36,6 +36,6 @@ Changes dialog options from wing names to raid name, bosses and if they are defe
 
 Notifies the player when an item was looted which begins a quest.
 
-#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Jun 4, 2022">v1.1</span>
+#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Oct 27, 2022">v2.0</span>
 
 Adds a hint in the tooltip in which expansion a reagent was added to the game.
