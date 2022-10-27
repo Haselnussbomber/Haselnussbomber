@@ -28,7 +28,7 @@ Alt-clicking an item in the inventory selects it in the Sell window and sets the
 
 Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.
 
-#### <a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released May 13, 2022">v1.1-1</span>
+#### <a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released Oct 27, 2022">v2.0</span>
 
 Changes dialog options from wing names to raid name, bosses and if they are defeated.
 
