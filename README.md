@@ -16,13 +16,13 @@ A little helper for Levequests.
 
 ### World of Warcraft Addons
 
-#### <a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released Oct 27, 2022">v2.0</span>
+#### <a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released Oct 28, 2022">v2.0</span>
 
 Sorts trade goods into categories based on the expansion they got added.
 
-#### <a href="https://github.com/Haselnussbomber/AuctionAltClickItem" title="Alt-clicking an item in the inventory selects it in the Sell window and sets the quantity to max.">AuctionAltClickItem</a> <span title="Released May 25, 2022">v1.0.0</span>
+#### <a href="https://github.com/Haselnussbomber/AuctionAltClickItem" title="Alt-clicking an item in the inventory puts it in the Sell window and sets the quantity to max.">AuctionAltClickItem</a> <span title="Released Oct 28, 2022">v2.0.0</span>
 
-Alt-clicking an item in the inventory selects it in the Sell window and sets the quantity to max.
+Alt-clicking an item in the inventory puts it in the Sell window and sets the quantity to max.
 
 #### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released Oct 27, 2022">v4.0.0</span>
 
