@@ -32,7 +32,7 @@ Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stat
 
 Changes dialog options from wing names to raid name, bosses and if they are defeated.
 
-#### <a href="https://github.com/Haselnussbomber/QuestNotifier" title="Notifies the player when an item was looted which begins a quest.">QuestNotifier</a> <span title="Released May 13, 2022">v1.2.0-2</span>
+#### <a href="https://github.com/Haselnussbomber/QuestNotifier" title="Notifies the player when an item was looted which begins a quest.">QuestNotifier</a> <span title="Released Nov 23, 2022">v1.3.0</span>
 
 Notifies the player when an item was looted which begins a quest.
 
