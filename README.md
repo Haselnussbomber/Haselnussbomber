@@ -20,10 +20,6 @@ A little helper for Levequests.
 
 Sorts trade goods into categories based on the expansion they got added.
 
-#### <a href="https://github.com/Haselnussbomber/AuctionAltClickItem" title="Alt-clicking an item in the inventory puts it in the Sell window and sets the quantity to max.">AuctionAltClickItem</a> <span title="Released Oct 28, 2022">v2.0.0</span>
-
-Alt-clicking an item in the inventory puts it in the Sell window and sets the quantity to max.
-
 #### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released Dec 1, 2022">v4.2.0</span>
 
 Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.
