@@ -24,7 +24,7 @@ Sorts trade goods into categories based on the expansion they got added.
 
 Alt-clicking an item in the inventory puts it in the Sell window and sets the quantity to max.
 
-#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released Nov 16, 2022">v4.1.0</span>
+#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released Dec 1, 2022">v4.2.0</span>
 
 Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.
 
