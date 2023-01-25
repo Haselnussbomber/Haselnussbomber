@@ -6,7 +6,7 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 ### Final Fantasy XIV Plugins
 
-#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Jan 24, 2023">v0.8.0</span>
+#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks.">HaselTweaks</a> <span title="Released Jan 25, 2023">v0.9.0</span>
 
 A collection of quality of life tweaks.
 
@@ -27,3 +27,11 @@ Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stat
 #### <a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released Oct 27, 2022">v2.0</span>
 
 Changes dialog options from wing names to raid name, bosses and if they are defeated.
+
+#### <a href="https://github.com/Haselnussbomber/QuestNotifier" title="Notifies the player when an item was looted which begins a quest.">QuestNotifier</a> <span title="Released Nov 23, 2022">v1.3.0</span>
+
+Notifies the player when an item was looted which begins a quest.
+
+#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 16, 2022">v2.2</span>
+
+Adds a hint in the tooltip in which expansion a reagent was added to the game.
