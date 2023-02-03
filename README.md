@@ -10,7 +10,7 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 A collection of quality of life tweaks.
 
-#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Jan 14, 2023">v0.1.5</span>
+#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Feb 3, 2023">v0.1.7</span>
 
 A little helper for Levequests.
 
@@ -27,3 +27,11 @@ Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stat
 #### <a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released Oct 27, 2022">v2.0</span>
 
 Changes dialog options from wing names to raid name, bosses and if they are defeated.
+
+#### <a href="https://github.com/Haselnussbomber/QuestNotifier" title="Notifies the player when an item was looted which begins a quest.">QuestNotifier</a> <span title="Released Nov 23, 2022">v1.3.0</span>
+
+Notifies the player when an item was looted which begins a quest.
+
+#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 16, 2022">v2.2</span>
+
+Adds a hint in the tooltip in which expansion a reagent was added to the game.
