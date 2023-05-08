@@ -20,9 +20,9 @@ A little helper for Levequests.
 
 Sorts trade goods into categories based on the expansion they got added.
 
-#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.">Juwe</a> <span title="Released Dec 1, 2022">v4.2.0</span>
+#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released May 7, 2023">v5.0.0</span>
 
-Juwe is a modification for the Jewelcrafting Trade Skill Window to show the stats of a gem instead of its name.
+Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.
 
 #### <a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released Oct 27, 2022">v2.0</span>
 
