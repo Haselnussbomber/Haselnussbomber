@@ -6,7 +6,7 @@ These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 ### Final Fantasy XIV Plugins
 
-#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released May 3, 2023">v14.9.3</span>
+#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released May 20, 2023">v14.10.0</span>
 
 A collection of quality of life tweaks and more.
 
@@ -31,7 +31,3 @@ Changes dialog options from wing names to raid name, bosses and if they are defe
 #### <a href="https://github.com/Haselnussbomber/QuestNotifier" title="Notifies the player when an item was looted which begins a quest.">QuestNotifier</a> <span title="Released Nov 23, 2022">v1.3.0</span>
 
 Notifies the player when an item was looted which begins a quest.
-
-#### <a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 16, 2022">v2.2</span>
-
-Adds a hint in the tooltip in which expansion a reagent was added to the game.
