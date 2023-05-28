@@ -1,8 +1,10 @@
-Heya, I'm Alexander!
+## Heya!
 
-I'm a shy developer of small plugins and addons for games. I mainly code them for myself, so you won't see them on official lists. Starting to publish them on GitHub was a big step for me.
+It's me, Alexander, a shy hobby-coder from Germany.
 
-I hope you enjoy using my creations and find them just as helpful as much as I do. :)
+I mainly create small FFXIV plugins and WoW addons for my personal use. Taking the step to share them on GitHub is a big deal for me, but I believe my creations could be valuable to others as well and maybe some ideas will even end up in the games themselves one day. ![Prayge](https://github.com/Haselnussbomber/Haselnussbomber/assets/96642047/18fc83b1-56a1-4354-94d1-9070eacb7f07)
+
+I hope you find them as helpful as I do, so please enjoy using them! :)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
