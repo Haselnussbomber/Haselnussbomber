@@ -1,6 +1,8 @@
-## Hey there!
+Heya, I'm Alexander!
 
-These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
+I'm a shy developer of small plugins and addons for games. I mainly code them for myself, so you won't see them on official lists. Starting to publish them on GitHub was a big step for me.
+
+I hope you enjoy using my creations and find them just as helpful as much as I do. :)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
