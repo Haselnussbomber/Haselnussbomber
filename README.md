@@ -1,16 +1,12 @@
-## Heya!
+## Hey there!
 
-It's me, Alexander, a shy hobby-coder from Germany.
-
-I mainly create small FFXIV plugins and WoW addons for my personal use. Taking the step to share them on GitHub is a big deal for me, but I believe my creations could be valuable to others as well and maybe some ideas will even end up in the games themselves one day. ![Prayge](https://github.com/Haselnussbomber/Haselnussbomber/assets/96642047/18fc83b1-56a1-4354-94d1-9070eacb7f07)
-
-I hope you find them as helpful as I do, so please enjoy using them! :)
+These are a bunch of small and simple Addons/Plugins that I wrote. Have fun!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
 ### Final Fantasy XIV Plugins
 
-#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released May 26, 2023">v14.11.2</span>
+#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released May 28, 2023">v14.11.3</span>
 
 A collection of quality of life tweaks and more.
 
