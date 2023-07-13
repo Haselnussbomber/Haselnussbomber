@@ -24,7 +24,7 @@ A little helper for Levequests.
 
 Sorts trade goods into categories based on the expansion they got added.
 
-#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released May 7, 2023">v5.0.0</span>
+#### <a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released Jul 12, 2023">v5.0.1</span>
 
 Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.
 
