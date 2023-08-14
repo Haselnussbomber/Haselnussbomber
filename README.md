@@ -14,7 +14,7 @@ Enjoy! :)
 
 A collection of quality of life tweaks and more.
 
-#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Aug 5, 2023">v2.0.7</span>
+#### <a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Aug 13, 2023">v2.0.8</span>
 
 A little helper for Levequests.
 
