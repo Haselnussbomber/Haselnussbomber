@@ -18,6 +18,10 @@ A collection of quality of life tweaks and more.
 
 A little helper for Levequests.
 
+#### <a href="https://github.com/Haselnussbomber/MogMogCheck" title="Plugin to assist tracking Moogle Treasure Trove rewards">MogMogCheck</a> <span title="Released Aug 27, 2023">v0.0.1</span>
+
+Plugin to assist tracking Moogle Treasure Trove rewards
+
 ### World of Warcraft Addons
 
 #### <a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released Oct 28, 2022">v2.0</span>
