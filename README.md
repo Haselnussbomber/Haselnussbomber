@@ -18,7 +18,7 @@ A collection of quality of life tweaks and more.
 
 A little helper for Levequests.
 
-#### <a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards">MogMogCheck</a> <span title="Released Aug 28, 2023">v1.0.2</span>
+#### <a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards">MogMogCheck</a> <span title="Released Aug 29, 2023">v1.0.3</span>
 
 Tracking assistant for Moogle Treasure Trove rewards
 
