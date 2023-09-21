@@ -123,7 +123,7 @@ const escapeHtml = (str: string) => str
   .replace(/'/g, "&#039;");
 
 const formatRepo = (repo: Repository) =>
-  `#### <a href="${repo.html_url}" title="${escapeHtml(repo.description)}">${repo.name}</a> <span title="Released ${formatDate(repo.latestRelease.published_at)}">${repo.latestRelease.tag_name}</span>\n\n${repo.description}\n`;
+  `- <b><a href="${repo.html_url}" title="${escapeHtml(repo.description)}">${repo.name}</a> <span title="Released ${formatDate(repo.latestRelease.published_at)}">${repo.latestRelease.tag_name}</span></b>  \n  ${repo.description}\n`;
 
 await Deno.writeTextFile("README.md", `## Heya!
 
