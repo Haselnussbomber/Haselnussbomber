@@ -10,7 +10,7 @@ Enjoy! :)
 
 ### Final Fantasy XIV Plugins
 
-#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Sep 13, 2023">v16.2.2</span>
+#### <a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Sep 20, 2023">v17.0.1</span>
 
 A collection of quality of life tweaks and more.
 
