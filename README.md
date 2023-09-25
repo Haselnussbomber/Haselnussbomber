@@ -10,7 +10,7 @@ Enjoy! :)
 
 ### Final Fantasy XIV Plugins
 
-- <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Sep 20, 2023">v17.0.1</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Sep 25, 2023">v17.0.2</span></b>  
   A collection of quality of life tweaks and more.
 
 - <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Sep 13, 2023">v2.0.9</span></b>  
