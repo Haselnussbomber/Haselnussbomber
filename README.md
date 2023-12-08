@@ -29,3 +29,6 @@ Enjoy! :)
 
 - <b><a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released Nov 8, 2023">v2.1.1</span></b>  
   Changes dialog options from wing names to raid name, bosses and if they are defeated.
+
+- <b><a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 8, 2023">v2.2.1</span></b>  
+  Adds a hint in the tooltip in which expansion a reagent was added to the game.
