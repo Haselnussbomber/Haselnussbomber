@@ -16,7 +16,7 @@ Enjoy! :)
 - <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Jan 25, 2024">v2.1.3</span></b>  
   A little helper for Levequests.
 
-- <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Oct 4, 2023">v1.1.1</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Jan 26, 2024">v2.0.0</span></b>  
   Tracking assistant for Moogle Treasure Trove rewards.
 
 ### World of Warcraft Addons
