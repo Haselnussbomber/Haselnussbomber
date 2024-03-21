@@ -10,13 +10,13 @@ Enjoy! :)
 
 ### Final Fantasy XIV Plugins
 
-- <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Mar 5, 2024">v20.2.1</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Mar 20, 2024">v20.3.0</span></b>  
   A collection of quality of life tweaks and more.
 
-- <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Jan 25, 2024">v2.1.3</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Mar 20, 2024">v2.1.4</span></b>  
   A little helper for Levequests.
 
-- <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Mar 10, 2024">v2.2.0</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Mar 20, 2024">v2.2.1</span></b>  
   Tracking assistant for Moogle Treasure Trove rewards.
 
 ### World of Warcraft Addons
