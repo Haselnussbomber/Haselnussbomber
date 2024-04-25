@@ -19,6 +19,9 @@ Enjoy! :)
 - <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Mar 20, 2024">v2.2.1</span></b>  
   Tracking assistant for Moogle Treasure Trove rewards.
 
+- <b><a href="https://github.com/Haselnussbomber/YokaiCheck" title=" Tracking assistant for Yo-kai Watch rewards">YokaiCheck</a> <span title="Released Apr 25, 2024">v1.0.0</span></b>  
+   Tracking assistant for Yo-kai Watch rewards
+
 ### World of Warcraft Addons
 
 - <b><a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released Nov 8, 2023">v2.0.1</span></b>  
