@@ -24,14 +24,8 @@ Enjoy! :)
 
 ### World of Warcraft Addons
 
-- <b><a href="https://github.com/Haselnussbomber/AdiBags_TradeGoods" title="Sorts trade goods into categories based on the expansion they got added.">AdiBags_TradeGoods</a> <span title="Released Nov 8, 2023">v2.0.1</span></b>  
-  Sorts trade goods into categories based on the expansion they got added.
-
 - <b><a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released Nov 8, 2023">v5.0.2</span></b>  
   Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.
-
-- <b><a href="https://github.com/Haselnussbomber/LFRNPCHelper" title="Changes dialog options from wing names to raid name, bosses and if they are defeated.">LFRNPCHelper</a> <span title="Released Nov 8, 2023">v2.1.1</span></b>  
-  Changes dialog options from wing names to raid name, bosses and if they are defeated.
 
 - <b><a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 8, 2023">v2.2.1</span></b>  
   Adds a hint in the tooltip in which expansion a reagent was added to the game.
