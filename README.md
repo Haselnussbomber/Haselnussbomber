@@ -19,7 +19,13 @@ Enjoy! :)
 - <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Mar 20, 2024">v2.2.1</span></b>  
   Tracking assistant for Moogle Treasure Trove rewards.
 
+- <b><a href="https://github.com/Haselnussbomber/YokaiCheck" title=" Tracking assistant for Yo-kai Watch rewards">YokaiCheck</a> <span title="Released Apr 27, 2024">v1.2.0</span></b>  
+   Tracking assistant for Yo-kai Watch rewards
+
 ### World of Warcraft Addons
 
 - <b><a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released Nov 8, 2023">v5.0.2</span></b>  
   Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.
+
+- <b><a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 8, 2023">v2.2.1</span></b>  
+  Adds a hint in the tooltip in which expansion a reagent was added to the game.
