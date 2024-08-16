@@ -127,11 +127,13 @@ const formatRepo = (repo: Repository) =>
 
 await Deno.writeTextFile("README.md", `## Heya!
 
-I'm Alexander, a hobby-coder from Germany.
+I'm Alexander from Germany.
 
-I mainly create small FFXIV plugins and WoW addons for my personal use and thought I'd share them in case someone else finds them as useful as I do. And who knows? Maybe some of the ideas will even end up in the games themselves one day. ![Prayge](https://github.com/Haselnussbomber/Haselnussbomber/assets/96642047/18fc83b1-56a1-4354-94d1-9070eacb7f07)
+I specialize in creating plugins for Final Fantasy XIV and addons for World of Warcraft. Initially, I developed these tools for personal use, but I decided to share them here in case others find them as helpful as I do.
 
-Enjoy! :)
+Over the past few years, my work on FFXIV plugins sparked an interest in reverse engineering. This led me to contribute extensively to [FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs), a project that aids other developers in crafting their own plugins and enhances our understanding of the FFXIV codebase for future research.
+
+Take a look around, and I hope you find something you like! 😊
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
