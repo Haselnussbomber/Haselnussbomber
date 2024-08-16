@@ -133,7 +133,7 @@ I create plugins for Final Fantasy XIV and small addons for World of Warcraft. W
 
 Developing FFXIV plugins led me to reverse-engineering, so I started contributing extensively to [FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs), a project that documents the internal structures of the game and provides an interface for plugin developers to hook into the game and enhance it with various quality of life features.
 
-I hope you find one or the other of my creations useful and with you a nice day! 😊
+I hope you find my creations useful and wish you a nice day! 😊
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
