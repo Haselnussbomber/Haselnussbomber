@@ -2,11 +2,11 @@
 
 I'm Alexander from Germany.
 
-I specialize in creating plugins for Final Fantasy XIV and addons for World of Warcraft. Initially, I developed these tools for personal use, but I decided to share them here in case others find them as helpful as I do.
+I create plugins for Final Fantasy XIV and small addons for World of Warcraft. While I develop them for my personal use, I decided to share them on GitHub in case others find them as helpful as I do.
 
-Over the past few years, my work on FFXIV plugins sparked an interest in reverse engineering. This led me to contribute extensively to [FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs), a project that aids other developers in crafting their own plugins and enhances our understanding of the FFXIV codebase for future research.
+Developing FFXIV plugins led me to reverse-engineering, so I started contributing extensively to [FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs), a project that documents the internal structures of the game and provides an interface for plugin developers to hook into the game and enhance it with various quality of life features.
 
-Take a look around, and I hope you find something you like! 😊
+I hope you find one or the other of my creations useful and with you a nice day! 😊
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
