@@ -18,7 +18,7 @@ I hope you find my creations useful and wish you a nice day! 😊
 - <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Jul 19, 2024">v2.3.0</span></b>  
   A little helper for Levequests.
 
-- <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Mar 20, 2024">v2.2.1</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Oct 8, 2024">v2.2.2</span></b>  
   Tracking assistant for Moogle Treasure Trove rewards.
 
 - <b><a href="https://github.com/Haselnussbomber/YokaiCheck" title=" Tracking assistant for Yo-kai Watch rewards">YokaiCheck</a> <span title="Released Apr 27, 2024">v1.2.0</span></b>  
