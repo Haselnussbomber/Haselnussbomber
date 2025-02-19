@@ -15,7 +15,7 @@ I hope you find my creations useful and wish you a nice day! 😊
 - <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Feb 16, 2025">v32.1.1</span></b>  
   A collection of quality of life tweaks and more.
 
-- <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Nov 20, 2024">v2.4.1</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Feb 18, 2025">v2.5.0</span></b>  
   A little helper for Levequests.
 
 - <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Oct 8, 2024">v2.2.2</span></b>  
