@@ -1,7 +1,7 @@
-import { crypto } from "https://deno.land/std@0.140.0/crypto/mod.ts";
-import { ensureDir } from "https://deno.land/std@0.140.0/fs/mod.ts";
-import { encode as encodeHex } from "https://deno.land/std@0.140.0/encoding/hex.ts";
-import { encode as encodeBase64 } from "https://deno.land/std@0.140.0/encoding/base64.ts"
+import { crypto } from "@std/crypto/crypto";
+import { ensureDir } from "@std/fs";
+import { encodeHex, encodeBase64 } from "@std/encoding";
+import { escape } from "@std/html/entities";
 
 const user = Deno.env.get("GITHUB_REPOSITORY_OWNER") || "Haselnussbomber";
 const env = Deno.env.get("ENVIRONMENT");
@@ -10,15 +10,21 @@ const token = Deno.env.get("GITHUB_TOKEN") || Deno.env.get("PAT");
 console.log("env:", env);
 const isDev = env == "development";
 
-interface Release {
+interface GitHubRelease {
   tag_name: string;
   published_at: string;
+}
+
+interface D17Release {
+  AssemblyVersion: string;
+  LastUpdate: number;
 }
 
 interface Repository {
   name: string;
   full_name: string;
 
+  fork: boolean;
   private: boolean;
   archived: boolean;
   disabled: boolean;
@@ -28,15 +34,16 @@ interface Repository {
   description: string;
   topics: string[];
 
-  latestRelease: Release;
+  latestRelease: GitHubRelease;
+  d17Release: D17Release;
 }
 
 async function hashString(str: string) {
-  const digest = await crypto.subtle.digest("BLAKE3", new TextEncoder().encode(str));
-  return new TextDecoder().decode(encodeHex(new Uint8Array(digest)));
+  return encodeHex(await crypto.subtle.digest("BLAKE3", new TextEncoder().encode(str)));
 }
 
 async function customFetch(url: string) {
+  console.log(`Fetching: ${url}`);
   const filename = isDev ? `./.cache/${await hashString(url)}.json` : "";
 
   if (isDev) {
@@ -44,6 +51,7 @@ async function customFetch(url: string) {
     let data = "";
     try {
       data = await Deno.readTextFile(filename);
+      console.log(`Loaded from cache: ${url}`);
     } catch (_e) {
       // ignore
     }
@@ -72,6 +80,7 @@ async function customFetch(url: string) {
       headers: Object.fromEntries(res.headers.entries()),
       payload
     }, null, 2));
+    console.log(`Cached: ${url}`);
   }
 
   if (!res.ok) {
@@ -88,14 +97,21 @@ do {
   pageRepos = await customFetch(`https://api.github.com/users/${user}/repos?page=${++page}`);
 
   for (const repo of pageRepos) {
-    if (repo.private || repo.archived || repo.disabled)
+    if (repo.fork || repo.private || repo.archived || repo.disabled)
       continue;
 
-    try {
-      const release = await customFetch(`https://api.github.com/repos/${repo.full_name}/releases/latest`);
-      repo.latestRelease = release;
+    if (repo.topics.includes("dalamud-plugin")) {
+      try {
+        repo.d17Release = await customFetch(`https://kamori.goats.dev/Plugin/Plugin/${repo.name}`);
+        repos.push(repo);
+        continue;
+      } catch(_e) {
+        console.error(_e);
+      }
+    }
 
-      // only add repo if it has a release
+    try {
+      repo.latestRelease = await customFetch(`https://api.github.com/repos/${repo.full_name}/releases/latest`);
       repos.push(repo);
     } catch(_e) {
       console.error(_e);
@@ -111,19 +127,25 @@ console.log(`${repos.length} repos`);
 const byTag = (tag: string) =>
   (repo: Repository) => repo.topics.includes(tag);
 
-const formatDate = (str: string) =>
+const formatDate = (str: number | string | Date) =>
   new Date(str).toLocaleString("en-us", { dateStyle: "medium" });
 
-//! https://stackoverflow.com/a/6234804
-const escapeHtml = (str: string) => str
-  .replace(/&/g, "&amp;")
-  .replace(/</g, "&lt;")
-  .replace(/>/g, "&gt;")
-  .replace(/"/g, "&quot;")
-  .replace(/'/g, "&#039;");
+const cleanVersion = (str: string) =>
+  str.endsWith(".0") ? str.slice(0, -2) : str;
 
-const formatRepo = (repo: Repository) =>
-  `- <b><a href="${repo.html_url}" title="${escapeHtml(repo.description)}">${repo.name}</a> <span title="Released ${formatDate(repo.latestRelease.published_at)}">${repo.latestRelease.tag_name}</span></b>  \n  ${repo.description}\n`;
+const formatRepo = (repo: Repository) => {
+  console.log(repo);
+  
+  const releaseDate = repo.d17Release
+    ? formatDate(repo.d17Release.LastUpdate * 1000)
+    : formatDate(repo.latestRelease.published_at);
+    
+  const releaseVersion = repo.d17Release
+  ? cleanVersion(repo.d17Release.AssemblyVersion)
+  : repo.latestRelease.tag_name;
+  
+  return `- <b><a href="${repo.html_url}" title="${escape(repo.description)}">${repo.name}</a> <span title="Released ${releaseDate}">${releaseVersion}</span></b>  \n  ${repo.description}\n`;
+}
 
 await Deno.writeTextFile("README.md", `## Heya!
 
@@ -134,8 +156,6 @@ I create plugins for Final Fantasy XIV and small addons for World of Warcraft. W
 Developing FFXIV plugins led me to reverse-engineering, so I started contributing extensively to [FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs), a project that documents the internal structures of the game and provides an interface for plugin developers to hook into the game and enhance it with various quality of life features.
 
 I hope you find my creations useful and wish you a nice day! 😊
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E5DE5)
 
 ### Final Fantasy XIV Plugins
 
