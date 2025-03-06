@@ -134,8 +134,6 @@ const cleanVersion = (str: string) =>
   str.endsWith(".0") ? str.slice(0, -2) : str;
 
 const formatRepo = (repo: Repository) => {
-  console.log(repo);
-  
   const releaseDate = repo.d17Release
     ? formatDate(repo.d17Release.LastUpdate * 1000)
     : formatDate(repo.latestRelease.published_at);

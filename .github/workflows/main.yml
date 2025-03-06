@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate README.md
-        run: deno run --allow-env=ENVIRONMENT,GITHUB_REPOSITORY_OWNER,GITHUB_TOKEN,PAT --allow-net=api.github.com --allow-write=README.md main.ts
+        run: deno run --allow-env=ENVIRONMENT,GITHUB_REPOSITORY_OWNER,GITHUB_TOKEN,PAT --allow-net=api.github.com,kamori.goats.dev --allow-write=README.md main.ts
 
       - name: Verify Changed files
         uses: tj-actions/verify-changed-files@v20
