@@ -10,7 +10,7 @@ I hope you find my creations useful and wish you a nice day! 😊
 
 ### Final Fantasy XIV Plugins
 
-- <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Feb 16, 2025">v32.1.1</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/HaselTweaks" title="A collection of quality of life tweaks and more.">HaselTweaks</a> <span title="Released Mar 8, 2025">v33.0.0</span></b>  
   A collection of quality of life tweaks and more.
 
 - <b><a href="https://github.com/Haselnussbomber/LeveHelper" title="A little helper for Levequests.">LeveHelper</a> <span title="Released Feb 23, 2025">v2.5.1</span></b>  
@@ -19,8 +19,8 @@ I hope you find my creations useful and wish you a nice day! 😊
 - <b><a href="https://github.com/Haselnussbomber/MogMogCheck" title="Tracking assistant for Moogle Treasure Trove rewards.">MogMogCheck</a> <span title="Released Mar 6, 2025">3.2.3</span></b>  
   Tracking assistant for Moogle Treasure Trove rewards.
 
-- <b><a href="https://github.com/Haselnussbomber/YokaiCheck" title=" Tracking assistant for Yo-kai Watch rewards">YokaiCheck</a> <span title="Released Apr 27, 2024">v1.2.0</span></b>  
-   Tracking assistant for Yo-kai Watch rewards
+- <b><a href="https://github.com/Haselnussbomber/YokaiCheck" title=" Tracking assistant for Yo-kai Watch rewards.">YokaiCheck</a> <span title="Released Apr 27, 2024">v1.2.0</span></b>  
+   Tracking assistant for Yo-kai Watch rewards.
 
 ### World of Warcraft Addons
 
