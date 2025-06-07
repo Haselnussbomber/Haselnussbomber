@@ -24,7 +24,7 @@ I hope you find my creations useful and wish you a nice day! 😊
 
 ### World of Warcraft Addons
 
-- <b><a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released Nov 8, 2023">v5.0.2</span></b>  
+- <b><a href="https://github.com/Haselnussbomber/Juwe" title="Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.">Juwe</a> <span title="Released Jun 6, 2025">v5.0.3</span></b>  
   Juwe modifies the Recipe List and Auction House to replace gem names with their corresponding stats.
 
 - <b><a href="https://github.com/Haselnussbomber/TradeGoodsExpansionTooltip" title="Adds a hint in the tooltip in which expansion a reagent was added to the game.">TradeGoodsExpansionTooltip</a> <span title="Released Nov 8, 2023">v2.2.1</span></b>  
